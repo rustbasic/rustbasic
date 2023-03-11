@@ -2,8 +2,13 @@
 name = "rustbasic"
 version = "0.0.1"
 edition = "2021"
+authors = ["rustbasic <timearea@naver.com>"]
 description = "Rust Basic : Planned Development"
+readme = "README.md"
+repository = "https://github.com/rustbasic/rustbasic/"
 license = "MIT OR Apache-2.0"
+keywords = ["rust", "rustbasic", "basic", "wasm"]
+categories = ["rust-patterns", "wasm"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
