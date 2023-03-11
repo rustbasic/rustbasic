@@ -1,0 +1,21 @@
+[package]
+name = "rustbasic"
+version = "0.0.1"
+edition = "2021"
+description = "Rust Basic : Planned Development"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[registries.crate-io]
+protocol = "sparse"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 2       # Used to fast and small wasm.
+#opt-level = 3       # Used to fast.
+
+[dependencies]
+
