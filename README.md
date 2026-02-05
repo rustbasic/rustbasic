@@ -1,9 +1,9 @@
-# R-DESK
+# 👋 Hi, I'm @rustbasic (Arthur Kang) | Rust Enthusiast
 
-This program was built for `Windows` using `Rust` and the `egui` library.
+Building high-performance, cross-platform tools using **Rust** and **WASM**.
 
-## R-Login, R-Chat, R-Image, R-Editor, R-Dos, R-Paint, R-Sound
+### 🚀 Featured Projects
+- **[ezchat](https://rustbasic.github.io/ezchat/)**: Multi-AI (Gemini, GPT, Grok) Chat App with Voice & PWA support.
+- **[ezclip](https://rustbasic.github.io/ezclip/)**: Smart snippet & clipboard manager for seamless Desktop and Web use.
 
-### Donwload: https://github.com/rustbasic/rdesk/blob/main/rdesk.exe?raw=true
-
-### You just need to download `rdesk.exe`
+Focusing on speed, memory safety, and intuitive UX with **egui**.
