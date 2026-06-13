@@ -13,6 +13,7 @@
 ## Overview
 
 ezChat is a Rust/egui chat client focused on AI conversation, voice, avatars, and assisted workflows. The web version is compiled to WebAssembly and can be installed as a PWA, while the native build is useful for local development and deeper tool integration.
+It also supports multi-agent assisted workflows for programming and project tasks.
 
 *   **Fast & Safe**: Built with the safety and speed of Rust.
 *   **Multi-Platform**: Supports browser/WASM and native desktop builds.
@@ -39,11 +40,12 @@ ezChat is a Rust/egui chat client focused on AI conversation, voice, avatars, an
 *   [x] Supports waiting room and multiple chat rooms.
 *   [x] Supports various conversation topics and themes.
 *   [x] Clean and responsive UI using `egui`.
-*   [x] Optional auto-continue flow for longer assisted conversations.
 
 ### 🛠️ Assisted Workflow
 *   [x] Agent-oriented workflow support for programming and project tasks.
+*   [x] **Multi-Agent Workflows**: Coordinate multiple specialized agents for assisted project tasks.
 *   [x] Local/native builds can use deeper file and tool integration during development.
+*   [x] Optional auto-continue flow for longer assisted conversations.
 
 ## Technical Stack
 *   **Language**: [Rust](https://www.rust-lang.org/)
