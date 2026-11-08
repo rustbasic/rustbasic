@@ -8,7 +8,7 @@
 
 ### 🚀 Live Demo: [https://rustbasic.github.io/](https://rustbasic.github.io/)
 
-![ezChat Screenshot](ezchat-v063.png)
+![ezChat Screenshot](ezchat-v082.png)
 
 ## Overview
 
